@@ -3,7 +3,6 @@
 # This file is distributed under the same license as django-celery-results.
 # <acwzy@live.com>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version:\n"
